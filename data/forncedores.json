@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "razaoSocial": "AVON",
+        "cnpj": 123456789,
+        "email": "ab@gmail.com",
+        "telefone": 123456789,
+        "cidade": "Itu"
+    },
+    {
+        "id": 2,
+        "razaoSocial": "Natura",
+        "cnpj": 987654321,
+        "email": "cd@gmail.com",
+        "telefone": 987654321,
+        "cidade": "Itu"
+    }
+]

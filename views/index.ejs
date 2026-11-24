@@ -1,0 +1,26 @@
+<%- include("partials/header") %>
+<%- include("partials/nav") %>
+
+<div class="container mt-5">
+  <div class="p-5 mb-4 bg-dark rounded-3">
+    <div class="d-flex justify-content-between
+                align-items-center mb-4">
+     
+      <h1 class="display-5 fw-bold text-light">Sistema de Cadastro</h1>
+      
+    </div>
+      <a href="/categorias" class="btn btn-secondary btn-lg"> Categorias </a>
+      <a href="/clientes" class="btn btn-custom-dark btn-lg"> Clientes </a>
+      <a href="/fornecedores" class="btn btn-secondary btn-lg"> Fornecedores </a>
+      <a href="/produtos" class="btn btn-custom-dark btn-lg"> Produtos </a>
+  </div>
+</div>
+
+<style>
+  .btn-custom-dark {
+    background-color: #343a40 !important; 
+    color: #fff !important;
+  }
+</style>
+
+<%- include("partials/footer") %>

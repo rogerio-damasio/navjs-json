@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "Sabão",
+        "descricao": "Sabão",
+        "preco": 19.99,
+        "estoque": 200,
+        "categoria": "Cuidado Pessoal"
+    },
+    {
+        "id": 2,
+        "nome": "Lâmpada",
+        "descricao": "Lâmpada",
+        "preco": 18.99,
+        "estoque": 300,
+        "categoria": "Energia"
+    }
+]
